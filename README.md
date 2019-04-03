@@ -6,7 +6,7 @@ Group 1 - Configurable Reminding System and Track Record for ADD Orphanage
 <h3></h3>
 <img src="screenshots/index.jpg">
 
-<h2>FOR ADMIN USE</h2>
+## FOR ADMIN USE
 - Admin account can view and update the Profile of the Elders and their medical history and the profile of the staff, it is also the one who is responsible to register the new elders or staff of ADD Orphanage.
 <h3 align="center"> * * * * *</h3>
 <img src="screenshots/signadmin.jpg">
@@ -23,7 +23,7 @@ Group 1 - Configurable Reminding System and Track Record for ADD Orphanage
 <h3 align="center"> * * * * *</h3>
 <img src="screenshots/regNewStaff.jpg">
 
-<h2>FOR STAFF/VOLUNTEER USE</h2>
+## FOR STAFF/VOLUNTEER USE
 - The Staff Account can only view the Elders Profile and their medical history, it is also the one who are responsible for encoding or scheduling the medicine intake by the elders.
 <h3 align="center"> * * * * *</h3>
 <img src="screenshots/signstaff.jpg">
