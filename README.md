@@ -1,7 +1,7 @@
 # Configurable Reminding System
 Group 1 - Configurable Reminding System and Track Record for ADD Orphanage
 
-<h2>HOME</h2>
+## HOME</h2>
 - This is the home page of the Web Application where the admin and staff are required to login to access the system. The home page contains the about us and the Activities.
 <h3></h3>
 <img src="screenshots/index.jpg">
@@ -29,13 +29,12 @@ Group 1 - Configurable Reminding System and Track Record for ADD Orphanage
 <img src="screenshots/signstaff.jpg">
 <h3 align="center"> * * * * *</h3>
 <img src="screenshots/staffacc.jpg">
-
-  - An automatic notification will pupup if there's an elder who need to intake his/her medicine.
+- An automatic notification will pupup if there's an elder who need to intake his/her medicine.
 <h3 align="center"> * * * * *</h3>
 <img src="screenshots/firstNotif.jpg">
-  - This notification will popup if you click the cancel button
+- This notification will popup if you click the cancel button
 <h3 align="center"> * * * * *</h3>
 <img src="screenshots/secondNotif.jpg">
-  - This is the page where you will see the name, time, dosage and medicine the elder need to take if you click the VIEW button
+- This is the page where you will see the name, time, dosage and medicine the elder need to take if you click the VIEW button
 <h3 align="center"> * * * * *</h3>
 <img src="screenshots/IntakeMed.jpg">
