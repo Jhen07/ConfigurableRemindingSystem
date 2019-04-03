@@ -30,12 +30,12 @@ Group 1 - Configurable Reminding System and Track Record for ADD Orphanage
 <h3 align="center"> * * * * *</h3>
 <img src="screenshots/staffacc.jpg">
 
-- An automatic notification will pupup if there's an elder who need to intake his/her medicine.
+  - An automatic notification will pupup if there's an elder who need to intake his/her medicine.
 <h3 align="center"> * * * * *</h3>
 <img src="screenshots/firstNotif.jpg">
-- This notification will popup if you click the cancel button
+  - This notification will popup if you click the cancel button
 <h3 align="center"> * * * * *</h3>
 <img src="screenshots/secondNotif.jpg">
-- This is the page where you will see the name, time, dosage and medicine the elder need to take if you click the VIEW button
+  - This is the page where you will see the name, time, dosage and medicine the elder need to take if you click the VIEW button
 <h3 align="center"> * * * * *</h3>
 <img src="screenshots/IntakeMed.jpg">
