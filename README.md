@@ -1,7 +1,7 @@
 # ConfigurableRemindingSystem
 Group 1 - Configurable Reminding System and Track Record for ADD Orphanage
 
-  This is the home page of the Web Application where the admin and staff are required to login to access the system. The home page contains the about us and the Activities.
+- This is the home page of the Web Application where the admin and staff are required to login to access the system. The home page contains the about us and the Activities.
 <img src="screenshots/index.jpg">
 
 
